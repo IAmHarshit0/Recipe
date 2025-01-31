@@ -1,10 +1,9 @@
-# Learning Web Development from The Odin Project 
+# Recipe Website
 
-This is a project that I am developing with the help of the odin project to learn more about the field of web development. 
-
-## So What am I Making?
-I am trying to make a recipe website.
+## Overview
+This is a dynamic and user-friendly recipe website that allows users to explore, share, and save their favorite recipes. The website provides an intuitive interface for browsing recipes by category, ingredients, and cuisine type.
 
 Thank you for reading!
 
-Regards 
+Regards
+>>>>>>> 56866b070da67144521667228263fa102e9c7912
