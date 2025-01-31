@@ -1,0 +1,7 @@
+# Learning Web Development from The Odin Project 
+
+This is a project that I am developing with the help of the odin project to learn more about the field of web development 
+
+Thank you for reading!
+
+Regards 
