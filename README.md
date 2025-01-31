@@ -6,4 +6,3 @@ This is a dynamic and user-friendly recipe website that allows users to explore,
 Thank you for reading!
 
 Regards
->>>>>>> 56866b070da67144521667228263fa102e9c7912
